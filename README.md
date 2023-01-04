@@ -1,5 +1,6 @@
 # Output
 
-(result.png "Output")
+![Output](result.PNG)
+
 
 
